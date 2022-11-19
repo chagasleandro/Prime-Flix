@@ -18,7 +18,6 @@ Prime Flix é um projeto estilo filmaria com uso de API para listar mais de dez 
 
   * `npm start`
 
-  * `npm start`
   
 * Caso a aplicação rode normalmente, estará disponível em `localhost:3000`
 
