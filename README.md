@@ -6,6 +6,7 @@ Prime Flix é um projeto estilo filmaria com uso de API para listar mais de dez 
 * React
 * Axios
 * React-router-dom
+* React-toastify
 
 
 ## Instalação
