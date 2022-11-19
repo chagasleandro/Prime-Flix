@@ -17,3 +17,8 @@ Digitar esse comando para carregar a pasta node_modules.
 Executa o aplicativo no modo de desenvolvimento.
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
 
+## Link API utilizado:
+<p>Link do The movie DB utilizado no projeto, para ser adicionado os lançamentos de filmes da sua preferência no projeto.</p>
+https://www.themoviedb.org/settings/api
+
+
