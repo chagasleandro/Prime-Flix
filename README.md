@@ -8,14 +8,19 @@ Prime Flix é um projeto estilo filmaria com uso de API para listar mais de dez 
 * React-router-dom
 
 
-## Comando para rodar o projeto no vs-code:
+## Instalação
 
-Digitar esse comando para carregar a pasta node_modules.
-### `npm init`
+* Baixar o NPM e o Node
 
+* Abrir o projeto em uma IDE de preferência ou no terminal do sistema operacional
 
-Executa o aplicativo no modo de desenvolvimento.
-Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
+  * `npm install`
+
+  * `npm start`
+
+  * `npm start`
+  
+* Caso a aplicação rode normalmente, estará disponível em `localhost:3000`
 
 ## Link API utilizado:
 <p>Link do The movie DB utilizado no projeto, para ser adicionado os lançamentos de filmes da sua preferência no projeto.</p>
