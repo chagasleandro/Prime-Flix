@@ -2,7 +2,7 @@
 
 Prime Flix é um projeto estilo filmaria com uso de API para listar mais de dez filmes de lançamentos atuais.
 
-<img src="./src/aseets/image/img(1).png" />
+<img src="../assets/image/img(1).png" />
 
 ## Tecnologias utilizadas no projeto:
 * React
