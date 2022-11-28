@@ -1,6 +1,6 @@
 # Sobre:
 
-Prime Flix é um projeto estilo filmaria com uso de API para listar mais de dez filmes de lançamentos atuais.
+Prime Flix é um projeto estilo filmaria, o projeto utiliza uma API para listar mais de dez filmes de lançamentos atuais para o usuário e abaixo segue a imagem do projeto em React.
 <br/><br/>
 <img src="src/assets/img.jpg" />
 
