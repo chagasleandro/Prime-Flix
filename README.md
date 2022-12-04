@@ -40,7 +40,8 @@ Prime Flix é um projeto estilo filmaria, o projeto utiliza uma API para listar 
 
 Você pode visualizar o layout do projeto através [desse link](https://marvelous-hotteok-4c6c89.netlify.app/)
 
-## Link API utilizado:
+## Utilitários 
+Link API utilizado:
 <p>Link do The movie DB utilizado no projeto, para ser adicionado os lançamentos de filmes da sua preferência no projeto.</p>
 https://www.themoviedb.org/settings/api
 
