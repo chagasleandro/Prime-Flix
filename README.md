@@ -1,16 +1,28 @@
-# Sobre:
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
+# 💻 Projeto:
 
 Prime Flix é um projeto estilo filmaria, o projeto utiliza uma API para listar mais de dez filmes de lançamentos atuais para o usuário e abaixo segue a imagem do projeto em React.
 <br/><br/>
 <img src="src/assets/img.jpg" />
 
-## Tecnologias utilizadas no projeto:
+## 🚀 Tecnologias:
 * React
 * Axios
 * React-router-dom
 
 
-## Instalação
+## 🔖 Instalação
 
 * Baixar o NPM e o Node
 
