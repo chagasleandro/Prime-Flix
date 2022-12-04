@@ -2,6 +2,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -34,6 +35,10 @@ Prime Flix é um projeto estilo filmaria, o projeto utiliza uma API para listar 
 
   
 * Caso a aplicação rode normalmente, estará disponível em `localhost:3000`
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://marvelous-hotteok-4c6c89.netlify.app/)
 
 ## Link API utilizado:
 <p>Link do The movie DB utilizado no projeto, para ser adicionado os lançamentos de filmes da sua preferência no projeto.</p>
