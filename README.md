@@ -42,7 +42,7 @@ Você pode visualizar o layout do projeto através [desse link](https://marvelou
 
 ## Utilitários 
 Link API utilizado:
-<p>Link do The movie DB utilizado no projeto, para ser adicionado os lançamentos de filmes da sua preferência no projeto.</p>
+<p>The movie DB utilizado no projeto, para ser adicionado os lançamentos de filmes da sua preferência no projeto.</p>
 https://www.themoviedb.org/settings/api
 
 
